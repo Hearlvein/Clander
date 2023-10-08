@@ -1,0 +1,26 @@
+# ninja log v5
+4766	7717	6829935181191189	CMakeFiles/Clander.dir/Wanderer/main.cpp.obj	58a9be30b73ec032
+2	221	6922089492524363	build.ninja	625fa8f9c277f427
+6059	15735	6829935261402929	CMakeFiles/Clander.dir/Wanderer/Scene/GameScene.cpp.obj	6a50111a601f626d
+0	60	0	clean	80727070b5b16674
+9770	11393	6829935217942119	CMakeFiles/Clander.dir/Wanderer/Utility/debug.cpp.obj	185f062053cce89a
+7211	9768	6829935201666950	CMakeFiles/Clander.dir/Wanderer/Entity/GameObject.cpp.obj	7c89eb2a54fd253d
+3261	7209	6829935176070538	CMakeFiles/Clander.dir/Wanderer/Entity/Character.cpp.obj	76a4620f7d9ec7a
+9390	11828	6829935222315045	CMakeFiles/Clander.dir/Wanderer/Scene/Layer.cpp.obj	22771a9f0f938ee1
+10379	10641	6829935210428529	CMakeFiles/Clander.dir/Wanderer/Utility/Box.cpp.obj	35b27ea5e61d5ce6
+10643	12665	6829935230713027	CMakeFiles/Clander.dir/Wanderer/Utility/util.cpp.obj	a0caba325f1a2799
+5406	9390	6829935197889449	CMakeFiles/Clander.dir/Wanderer/Entity/Enemy.cpp.obj	31e6bdfa60956783
+6642	10378	6829935207791827	CMakeFiles/Clander.dir/Wanderer/Entity/MovingCharacter.cpp.obj	7fdd5cb96c6a3f3e
+7717	14178	6829935245838667	CMakeFiles/Clander.dir/Wanderer/Scene/Map.cpp.obj	68efae9b621e6384
+6034	6642	6829935170324212	libimgui.a	dd60b30b72123720
+48	3259	6829935136498686	CMakeFiles/imgui.dir/vendor/imgui/imgui_demo.cpp.obj	7d27a4a0f539c1cf
+37	5405	6829935158020817	CMakeFiles/imgui.dir/vendor/imgui/imgui_widgets.cpp.obj	28daee4ac683b04c
+27	4765	6829935151393108	CMakeFiles/imgui.dir/vendor/imgui/imgui_draw.cpp.obj	c476fb6707eb6745
+14	6033	6829935164299415	CMakeFiles/imgui.dir/vendor/imgui/imgui.cpp.obj	b423c47094ead80
+76	5670	6829935160672350	CMakeFiles/imgui-sfml.dir/C_/dev/imgui-sfml/imgui-SFML.cpp.obj	1117dff5f04a76b1
+5672	6058	6829935164534003	libimgui-sfml.a	d27cf2533f6e5417
+59	8232	6829935186319294	CMakeFiles/Clander.dir/Wanderer/Scene/SceneManager.cpp.obj	7de10ba3d2ef4fbe
+16968	18795	6829935291927844	Clander.exe	417feaab796fe244
+8233	16967	6829935273748822	CMakeFiles/Clander.dir/Wanderer/Editor/MapEditor.cpp.obj	4a3876371534a1be
+2130	2548	6824457031876121	imgui.lib	65a1ab897835931e
+4230	4406	6824457051124441	imgui-sfml.lib	356489b04d94527d

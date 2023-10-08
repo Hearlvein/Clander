@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="CidrRootsConfiguration">
+    <sourceRoots>
+      <file path="$PROJECT_DIR$/Wanderer" />
+      <file path="$PROJECT_DIR$/Wanderer/Entity" />
+      <file path="$PROJECT_DIR$/Wanderer/Network" />
+      <file path="$PROJECT_DIR$/Wanderer/Scene" />
+      <file path="$PROJECT_DIR$/Wanderer/Utility" />
+    </sourceRoots>
+    <libraryRoots>
+      <file path="$PROJECT_DIR$/vendor" />
+    </libraryRoots>
+    <excludeRoots>
+      <file path="$PROJECT_DIR$/Resources" />
+      <file path="$PROJECT_DIR$/Wanderer-pre-release" />
+    </excludeRoots>
+  </component>
+</project>
