@@ -1,0 +1,12 @@
+{
+	"entities": [
+		{
+			"name": "player",
+			"texBox": [0, 50, 50, 100]
+		},
+		{
+			"name": "enemy",
+			"texBox": [0, 150, 50, 100]
+		}
+	]
+}
